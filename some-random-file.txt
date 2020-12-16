@@ -1,1 +1,1 @@
-On branch quux. This is the fourth commit.
+On branch baz. This is the fifth commit.
